@@ -1,0 +1,64 @@
+#logo-div{
+    padding: 20px;
+    margin-left:400px;
+    top:50px
+}
+#search-form{
+    position:absolute;
+    left:680px;
+    bottom:850px;
+
+}
+#search-input{
+    height: 50px;   
+    opacity: 0.6;
+}
+#search-button{
+    background-color:#00c1e3;
+    color:white;
+    padding: 17px 35px;
+    border: none;
+}
+#nav-bar-div{
+    
+}
+#search-image-mail{
+    position:absolute;
+    top:54px;
+    right:590px;
+}
+#mail-p{
+    position:absolute;
+    bottom:0px;
+    top:37px;
+    left:47px;
+}
+#search-image-phone{
+     position:absolute;
+    bottom:0px;
+    top:52px;
+    left:237px;
+}
+#phone-p{
+     position:absolute;
+    bottom:0px;
+    top:37px;
+    left:280px;
+}
+#nav-bar{
+   
+    height: 50px;
+    text-decoration: none;
+    background-color: #00c1e3;
+   
+}
+.nav-a-tag{
+    color:white;
+    text-decoration: none;
+    position:relative;
+    top:15px;
+    left:400px;
+    font-size: 18px;
+    word-spacing: 20px;
+
+}

@@ -1,0 +1,42 @@
+.flex-div{
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    grid-template-columns: repeat(4, 20%);
+}
+
+
+#paralax{
+    background-image: url('https://www.makart.rs/__public/upload//naslovna/parallax/za-paralax.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#inPara{
+    text-align: center;
+    font-size:25px;
+    color:white;
+    position:relative;
+    top:50%;
+}
+
+#see-more-button{
+    margin-left: 1580px;
+    background-color: #424242;
+    border:none;
+    color:white;
+    padding: 8px 30px;
+}
+
+.home-titles{
+    text-align: center;
+}
+
+.hr-home{
+    height: 1px;
+    border: 0;
+    background-color:#737373;
+    
+}

@@ -1,0 +1,67 @@
+table{
+   border-collapse: collapse;
+  width: 100%;
+}
+th, td {
+  padding: 8px;
+  border-bottom: 1px solid #ddd;
+}
+
+#checkout-button{
+    position: relative;
+    left:340px;
+    bottom:30px;
+    background-color: #00c1e3;
+    border:none;  
+    color:white;
+
+}
+.cart-buttons{
+    background-color: #3b3b3b;
+    color:#d6d6d6;
+    width: 330px;
+    height: 30px;
+    border: none;
+
+
+}
+
+#testDiv{
+    margin-left:450px;
+    padding-top: 10px;
+}
+
+#deleteFromCart{
+    background-color:#cf2323;
+    border: none;
+    color: white;
+    min-width: 100px;
+    height: 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    border: 2px solid white;
+    color:white;
+}
+#table{
+
+    text-align: center;
+    font-size:18px;
+ 
+}
+.table-hr{
+    height: 1px;
+    border: 0;
+    background-color:#dbdbdb;
+
+}
+
+#total-payment{
+      
+    position:absolute;
+    left:1350px;
+}
+#full-cart{
+      padding-top: 20px;
+}

@@ -1,0 +1,50 @@
+table{
+   border-collapse: collapse;
+  width: 100%;
+}
+th, td {
+  padding: 8px;
+  border-bottom: 1px solid #ddd;
+}
+
+
+.order-tables{
+
+    text-align: center;
+    font-size:18px;
+ 
+}
+
+.table-hr{
+    height: 1px;
+    border: 0;
+    background-color:#dbdbdb;
+
+}
+.order-title-h2{
+    padding-top: 10px;
+   text-align: center;
+}
+#user-order-buttons{
+    margin-left: 50%;
+    padding-bottom: 30px;
+}
+#confirm-order-button{
+    position: relative;
+    background-color: #00c1e3;
+    border:none;
+    left:50px;
+    top:50px;
+    min-width: 330px;
+    height: 30px;
+    color:white;
+}
+#cancel-order-button{
+    position:relative;
+     background-color: #424242;
+    right:500px;
+    top:20px;
+    min-width: 330px;
+    height: 30px;
+    color:white;
+}
