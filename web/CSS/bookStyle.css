@@ -1,0 +1,42 @@
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(4, 20%);
+    padding: 10px;
+    position:relative;
+    left:190px;
+    bottom:400px;
+}
+
+.grid-item {
+
+    padding: 20px;
+    text-align: center;
+
+
+}
+
+.name {
+    font-size: 16px;
+    color: black;
+}
+
+.price {
+    font-family: monospace;
+    font-size: 13px;
+    color: black;
+}
+
+.cart {
+    margin-top: 10px;
+
+}
+
+
+#button-cart{
+    background-color: #00c1e3;
+    color:white;
+    padding: 12px 43px;
+    border: none;
+
+}

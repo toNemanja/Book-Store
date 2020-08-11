@@ -1,0 +1,46 @@
+#user-form{
+   
+   font-size: 18px;
+   padding-top: 30px;
+   padding-left: 10px;
+
+   
+}
+.user-input{
+    
+     height: 50px;    
+    opacity: 0.6;  
+}
+#userNewEdit-h2{
+    padding-top: 10px;
+    font-size: 22px;
+    padding-left: 10px;
+}
+
+#userNewEdit-buttons{
+    position:relative;
+    left:700px;
+}
+.user-input-div{
+    padding-bottom: 30px;
+}
+
+#next-userNewEdit-button{
+    position:relative;
+    left:200px;
+    background-color: #00c1e3;
+    border:none;
+    width: 330px;
+    height: 30px;
+    color:white;
+}
+
+#back-userNewEdit-button{
+     position:relative;
+    right:500px;
+    min-width: 330px;
+    height: 30px;
+    border:none;
+    background-color: #424242;
+   color:white;
+}
